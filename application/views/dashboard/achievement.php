@@ -83,7 +83,7 @@
             </div>
             <div class="form-group">
               <label for="tahun">Tahun</label>
-              <input type="number" name="tahun" class="form-control">
+              <input type="text" name="tahun" class="form-control">
             </div>
             <div class="modal-footer">
               <button type="submit" class="btn btn-info">Save</button>

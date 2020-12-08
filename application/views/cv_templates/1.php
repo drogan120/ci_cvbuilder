@@ -188,10 +188,10 @@
 								<?php foreach ($experiences as $exp) : ?>
 
 									<tr>
-										<td width="5%"><i class="fa fa-briefcase"></i></td>
-										<td><?= $exp['sejak'] ?> <?= $exp['sampai'] ?></td>
-										<td width="65%"><?= $exp['nama'] ?></td>
-										<td width="35%"><?= $exp['jabatan'] ?></td>
+										<td ><i class="fa fa-briefcase"></i></td>
+										<td ><?= $exp['sejak'] ?> <br> <?= $exp['sampai'] ?></td>
+										<td ><?= $exp['nama'] ?></td>
+										<td ><?= $exp['jabatan'] ?></td>
 									</tr>
 								<?php endforeach ?>
 							</tbody>

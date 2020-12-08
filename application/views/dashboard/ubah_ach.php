@@ -37,7 +37,7 @@
                               </div>
                               <div class="form-group">
                                   <label for="tahun">Tahun</label>
-                                  <input type="number" name="tahun" class="form-control" min="4" max="4" value="<?= $ach['tahun'] ?>">
+                                  <input type="text" name="tahun" class="form-control" min="4" max="4" value="<?= $ach['tahun'] ?>">
                               </div>
 
                               <button type="submit" class="btn btn-info">Save</button>

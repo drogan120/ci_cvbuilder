@@ -15,9 +15,9 @@
 <!-- ./wrapper -->
 
 
-<script src="http://alimahmudin.com/source/jquery/jquery-3.4.1.js" type="text/javascript"></script>
-<script src="http://alimahmudin.com/source/popper/popper.min.js" type="text/javascript"></script>
-<script src="http://alimahmudin.com/source/bootstrap-4.3.1/js/bootstrap.js" type="text/javascript"></script>
+<script src="http://localhost/source/jquery/jquery-3.4.1.js" type="text/javascript"></script>
+<script src="http://localhost/source/popper/popper.min.js" type="text/javascript"></script>
+<script src="http://localhost/source/bootstrap-4.3.1/js/bootstrap.js" type="text/javascript"></script>
 <script src="<?= base_url('assets/js/adminlte.min.js') ?>"></script>
 </body>
 

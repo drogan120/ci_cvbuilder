@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="http://alimahmudin.com/source/fontawesome-5.11.2/css/all.css">
+    <link rel="stylesheet" href="http://localhost/source/fontawesome-5.11.2/css/all.css">
     <!-- Ionicons -->
     <!-- <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"> -->
     <!-- overlayScrollbars -->
